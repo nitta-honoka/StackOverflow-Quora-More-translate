@@ -31,6 +31,6 @@
 
 - Author：Nitta Honoka
 - Email：xal2008sc@gmail.com
-- Blog: http://www.honoka.me
+- Blog：http://www.honoka.me
 
 2015-09-16 于上海
