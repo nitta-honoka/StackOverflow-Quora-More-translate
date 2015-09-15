@@ -2,7 +2,7 @@
 
 ##StackOverflow
 
-[]dji
+[x]dji
 
 ##Quora
 
