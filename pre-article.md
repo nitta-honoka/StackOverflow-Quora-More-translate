@@ -2,8 +2,6 @@
 
 ##StackOverflow
 
-[x]dji
-
 ##Quora
 
 ##Others
