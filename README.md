@@ -1,5 +1,5 @@
 # StackOverflow-Quora-More-translate
-翻译StackOverflow、Quora或者其他资讯站上发现的好文,选文比较偏个人喜好。主要目的为学习、理解文章的同时提高英语水平，并共享知识。
+主要收录个人在[伯乐在线](http://www.jobbole.com/)上翻译的文章，或者翻译自己在 StackOverflow、Quora 及其他资讯站上发现的好文，选文比较偏个人喜好。主要目的为学习、理解文章的同时提高英语水平，并共享知识。
 
 翻译文章均会保留原文链接、作者名。
 
