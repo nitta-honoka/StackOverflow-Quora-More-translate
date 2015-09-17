@@ -15,7 +15,7 @@
  
  - 有好文推荐，请在pre-article.md中pull想要翻译的文章链接，或者提一个issue，告诉我添加待翻链接。
  - 可自行选取待翻译文章，选取后更改pre-article中该文章链接状态。
- - 翻译完成后放至finish文件夹中。
+ - 翻译完成后请放至finished-article文件夹中。
  - 在[issues](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/issues)中交流
  - 可在finish文件夹中查阅已翻译完成的文章，提出修改意见或者直接pull修改。
  - 图片请放至图床。
@@ -25,8 +25,8 @@
 ##文章分类及已完成列表
 
 - StackOverflow
- + Java
-   1. [Does finally always execute in Java?（Java 是否总会执行 finally）](http://stackoverflow.com/questions/65035/does-finally-always-execute-in-java?page=1&tab=votes#tab-top)
+	+ Java
+   		1. [Does finally always execute in Java?（Java 是否总会执行 finally）](http://stackoverflow.com/questions/65035/does-finally-always-execute-in-java?page=1&tab=votes#tab-top)——20150917
 - Quora
 
 ##To Be Continue
