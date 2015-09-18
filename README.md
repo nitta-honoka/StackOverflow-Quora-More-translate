@@ -33,6 +33,6 @@
 
 - Author：Nitta Honoka
 - Email：xal2008sc@gmail.com
-- Blog：http://www.honoka.me
+- Blog：http://honoka.cnblogs.com
 
 2015-09-16 于上海
