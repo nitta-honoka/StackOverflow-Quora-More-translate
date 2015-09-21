@@ -228,3 +228,8 @@ Java Platform SE API：
 
  - [Stack Overflow 的 Java 聊天室](http://chat.stackoverflow.com/rooms/139/java)
  - [java-and-android-era](http://chat.stackoverflow.com/rooms/19132/java-and-android-era)
+
+---
+原文链接： [stackoverflow](http://stackoverflow.com/tags/java/info)   
+翻译： [ImportNew.com](http://www.importnew.com/16689.html) - [honoka](http://www.importnew.com/author/xal821792703)
+译文链接： http://www.importnew.com/16689.html
