@@ -32,6 +32,7 @@
 - Other
 	+ Java
 	   + [x] [Java 常见异常解释（恶搞版）](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/blob/master/finished-article/Java%20%E5%B8%B8%E8%A7%81%E5%BC%82%E5%B8%B8%E8%A7%A3%E9%87%8A%EF%BC%88%E6%81%B6%E6%90%9E%E7%89%88%EF%BC%89.md)——20150925
+	   + [x] [理解Spring MVC Model Attribute 和 Session Attribute](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/blob/master/finished-article/%E7%90%86%E8%A7%A3Spring%20MVC%20Model%20Attribute%20%E5%92%8C%20Session%20Attribute.md)——20151017
 
 ##To Be Continue
 
