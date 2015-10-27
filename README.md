@@ -34,6 +34,8 @@
 	   + [x] [Java 常见异常解释（恶搞版）](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/blob/master/finished-article/Java%20%E5%B8%B8%E8%A7%81%E5%BC%82%E5%B8%B8%E8%A7%A3%E9%87%8A%EF%BC%88%E6%81%B6%E6%90%9E%E7%89%88%EF%BC%89.md)——20150925
 	   + [x] [理解Spring MVC Model Attribute 和 Session Attribute](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/blob/master/finished-article/%E7%90%86%E8%A7%A3Spring%20MVC%20Model%20Attribute%20%E5%92%8C%20Session%20Attribute.md)——20151017
 	   + [x] [快速高效学习Java编程在线资源Top 20](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/blob/master/finished-article/%E5%BF%AB%E9%80%9F%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0Java%E7%BC%96%E7%A8%8B%E5%9C%A8%E7%BA%BF%E8%B5%84%E6%BA%90Top%2020.md)——20151018
+	+ JavaScript
+		+ [x] [用 Chart.js 制作漂亮的响应式表单](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/blob/master/finished-article/%E7%94%A8%20Chart.js%20%E5%81%9A%E6%BC%82%E4%BA%AE%E7%9A%84%E5%93%8D%E5%BA%94%E5%BC%8F%E8%A1%A8%E5%8D%95.md)——20151027
 
 ##To Be Continue
 
