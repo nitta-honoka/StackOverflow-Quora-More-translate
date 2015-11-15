@@ -36,6 +36,7 @@
 	   + [x] [快速高效学习Java编程在线资源Top 20](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/blob/master/finished-article/%E5%BF%AB%E9%80%9F%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0Java%E7%BC%96%E7%A8%8B%E5%9C%A8%E7%BA%BF%E8%B5%84%E6%BA%90Top%2020.md)——20151018
 	+ JavaScript
 		+ [x] [用 Chart.js 制作漂亮的响应式表单](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/blob/master/finished-article/%E7%94%A8%20Chart.js%20%E5%81%9A%E6%BC%82%E4%BA%AE%E7%9A%84%E5%93%8D%E5%BA%94%E5%BC%8F%E8%A1%A8%E5%8D%95.md)——20151027
+		+ [x] [前端开发者都应知道的 jQuery 小技巧](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/blob/master/finished-article/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85%E9%83%BD%E5%BA%94%E7%9F%A5%E9%81%93%E7%9A%84%20jQuery%20%E5%B0%8F%E6%8A%80%E5%B7%A7.md)
 
 ##To Be Continue
 
