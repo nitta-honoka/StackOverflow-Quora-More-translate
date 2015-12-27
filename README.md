@@ -28,6 +28,7 @@
 	+ Java
    	    - [x] [Does finally always execute in Java?（Java 是否总会执行 finally）](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/blob/master/finished-article/Does-finally-always-execute-in-Java.md)——20150917  
    	    - [x] [StackOverflow: Java语言综述](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/blob/master/finished-article/StackOverflow-Java%20tag.md)——20150921
+   	    - [x] [【译】Stackoverflow：Java Servlet 工作原理问答](https://github.com/nitta-honoka/StackOverflow-Quora-More-translate/blob/master/finished-article/%E3%80%90%E8%AF%91%E3%80%91Stackoverflow%EF%BC%9AJava%20Servlet%20%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E9%97%AE%E7%AD%94.md)——20151227
 - Quora
 - Other
 	+ Java
