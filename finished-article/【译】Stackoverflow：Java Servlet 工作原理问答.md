@@ -50,5 +50,5 @@
 <p>&nbsp;</p>
 <hr />
 <p>&nbsp;</p>
-<p>原文链接：&nbsp;<a class="external" href="http://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-shared-variables-and-multithreading/3106909#3106909" rel="nofollow" target="_blank">stackoverflow</a></p>
-<p>首发至：&nbsp;<a href="http://www.importnew.com/17025.html">http://www.importnew.com/17025.html</a>，并已同步至 <a href="https://github.com/nitta-honoka/StackOverflow-Quora-More-translate" target="_blank">Github</a>，欢迎 Star 关注。</p>
+<p>原文链接：<a class="external" href="http://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-shared-variables-and-multithreading/3106909#3106909" rel="nofollow" target="_blank">stackoverflow</a></p>
+<p>首发至：<a href="http://www.importnew.com/17025.html">http://www.importnew.com/17025.html</a>，并已同步至 <a href="https://github.com/nitta-honoka/StackOverflow-Quora-More-translate" target="_blank">Github</a>，欢迎 Star 关注。</p>
